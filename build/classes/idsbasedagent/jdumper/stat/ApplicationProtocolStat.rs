@@ -1,0 +1,1 @@
+jdumper.stat.ApplicationProtocolStat

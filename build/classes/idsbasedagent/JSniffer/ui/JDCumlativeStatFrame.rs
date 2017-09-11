@@ -1,0 +1,2 @@
+JSniffer.ui.JDCumlativeStatFrame$TableModel
+JSniffer.ui.JDCumlativeStatFrame

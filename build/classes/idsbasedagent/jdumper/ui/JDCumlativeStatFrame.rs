@@ -1,0 +1,2 @@
+jdumper.ui.JDCumlativeStatFrame$TableModel
+jdumper.ui.JDCumlativeStatFrame
